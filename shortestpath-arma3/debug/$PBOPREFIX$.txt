@@ -1,0 +1,2 @@
+x\demo\addons\debug
+prefix=x\demo\addons\debug
