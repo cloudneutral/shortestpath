@@ -1,3 +1,5 @@
+[![Java CI with Maven](https://github.com/cloudneutral/shortestpath/actions/workflows/maven.yml/badge.svg)](https://github.com/cloudneutral/shortestpath/actions/workflows/maven.yml)
+
 # Shortest Path Algorithms
 
 Sandbox for visualizing common shortest path search algorithms including:
